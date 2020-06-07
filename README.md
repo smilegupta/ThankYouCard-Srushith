@@ -1,4 +1,4 @@
-# ThankYou Card! - [Coder's way of wishing](https://smilegupta.github.io/ThankYouCard-Srushith)
+# Thank You Card! - [Coder's way of Expressing](https://smilegupta.github.io/ThankYouCard-Srushith)
 [![ThankYou](https://img.shields.io/badge/ThankYouCard-dodgerblue.svg?style=for-the-badge)](https://smilegupta.github.io/ThankYouCard-Srushith/) [![View Demo](https://img.shields.io/badge/View-Demo-teal.svg?style=for-the-badge)](https://smilegupta.github.io/ThankYouCard-Srushith/)
 > **99.9% of people just say "ThankYou" to each other with the same 8 predictable letters. Why not say it with `code`? If you're a developer you already understand it!**
 
